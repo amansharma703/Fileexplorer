@@ -1,0 +1,16 @@
+.folder {
+  margin-top: 10px;
+  background-color: azure;
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+  width: 400px;
+  cursor: pointer;
+}
+
+.file {
+  margin-top: 5px;
+  padding-left: 5px;
+  display: flex;
+  flex-direction: column;
+}
